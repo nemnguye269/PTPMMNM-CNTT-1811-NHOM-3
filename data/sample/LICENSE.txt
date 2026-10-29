@@ -1,0 +1,4 @@
+Dữ liệu mẫu trong thư mục này do nhóm tự tạo bằng tools/make_sample.php.
+Tên trạm là địa danh có thật chỉ để dễ đọc; tuyến, chuyến và giờ chạy là HƯ CẤU, không phản ánh lịch xe buýt thật.
+Giấy phép: CC0 1.0 (phạm vi công cộng) – https://creativecommons.org/publicdomain/zero/1.0/
+Không sử dụng dữ liệu của bên thứ ba.
